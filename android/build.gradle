@@ -17,6 +17,20 @@ android {
             abiFilters "armeabi-v7a", "x86"
         }
     }
+     buildTypes {
+        release {
+
+        }
+
+        debug {
+
+        }
+
+
+        releaseStaging {
+
+        }
+    }
 }
 
 dependencies {
